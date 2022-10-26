@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h4,p,ul{
+    color: purple;
+    font-weight: ;
+}
+h5{
+    color: rgb(179, 120, 179) ;
+    padding: 10px;
+    font-weight: bold;
+}
+span{
+    color: rgb(124, 95, 150);
+    
+}
+
+.navbar-nav{
+    padding: 10px;
+
+}
+.nav-item a{
+    color: rgb(179, 120, 179) ;
+    margin-top: 20px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 40px;
+}
+.nav-item a:hover{
+    color:rgb(124, 95, 150);
+}
+button{
+    color: rgb(124, 95, 150) ;
+    border: rgb(124, 95, 150);
+    padding: 12px;
+    background-color: black;
+    margin-left: 10px;
+    
+}
+button a{
+    text-decoration: none;
+    color: rgb(179, 120, 179);
+    font-weight: bold;
+    
+}
+
+button a:hover{
+    background-color: purple;
+    color: pink;
+}
+
+.col-lg-4 {
+    border: 1px solid pink;
+    border-radius: 20px;
+    color: purple;
+
+}
+
+.col h3{
+    color: rgb(183, 113, 183);
+}
+
+.col-sm-9{
+    border-radius: 10px;
+}
+.fa-solid fa-microchip {
+    padding: 10px;
+}
